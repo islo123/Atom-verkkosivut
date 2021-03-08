@@ -1,4 +1,4 @@
-Sivu osoite: atom-verkkosivut.netlify.app
+Sivu osoite: https://atom-verkkosivut.netlify.app/
 
 # Getting Started with Create React App
 
